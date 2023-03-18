@@ -1,5 +1,5 @@
 # Subnetting
-Utilizzare le regole di subnetting per creare due sottoreti della stessa dimensione partendo dall'indirizzo 192.168.0.0/24
+Utilizzare le regole di subnetting per creare due sottoreti della stessa dimensione partendo dall'indirizzo 192.168.0.0/24 (su Filius)
 
 Conoscenze teoriche: subnetting
 Il subnetting è una suddivisione di una rete principale in diverse sottoreti che possono contenere un determinato numero di dispositivi ai quali corrisponde un indirizzo ip, per eseguire il calcolo del subnetting è perciò necessario definire gli intervalli delle combinazioni di indirizzi ip per ogni sottorete e la subnet mask relativa all'insieme.
